@@ -1,0 +1,4 @@
+picoCTF{the_m3tadata_1s_modified}
+
+
+flag obtained by "license" section (base64 encoded) under metadeta
