@@ -1,0 +1,6 @@
+folder/files were unpacked by binwalking dolls.jpg
+
+flag is hidden in flag.txt
+
+lcaotion
+_dolls.jpg.extracted\base_images\_2_c.jpg.extracted\base_images\_3_c.jpg.extracted\base_images\_4_c.jpg.extracted
